@@ -1,0 +1,21 @@
+.place__paragraph {
+  grid-area: place__paragraph;
+  font-family: 'inter-400', 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: #fff;
+  line-height: 29px;
+  margin-top: 0;
+ max-width: 484px;
+}
+
+@media screen and (max-width: 1120px) {
+  .place__paragraph {
+   max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .place__paragraph {
+   margin: 0 16px;
+  }
+}

@@ -1,0 +1,12 @@
+.place__link {
+  font-family: 'inter-400';
+  font-size: 18x;
+  margin: 0;
+  color: #fff;
+  padding: 0;
+}
+
+.place__link:hover {
+  color: grey;
+  transition: .3s;
+}
