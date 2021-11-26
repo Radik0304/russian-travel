@@ -1,5 +1,6 @@
 .lead__subtitle {
-  font-family: 'inter-400', 'Times New Roman', Times, serif;
+  font-family: 'inter', 'Times New Roman', Times, serif;
+  font-weight: 400;
   color: #fff;
   font-size: 30px;
   line-height: 36px;

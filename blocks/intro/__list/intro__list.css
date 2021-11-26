@@ -3,8 +3,10 @@
   padding: 0;
   margin-top: 33px;
   margin-bottom: 0;
-  font-family: 'inter-400';
+  font-family: 'inter', 'Times New Roman', Times, serif;
+  font-weight: 400;
   font-size: 12px;
+  line-height: 18px;
   color: #fff;
 }
 

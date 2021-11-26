@@ -1,7 +1,7 @@
 .header__lang-link {
-  display: inline;
   text-decoration: none;
-  font-family: 'inter-400', 'Times New Roman', Times, serif;
+  font-family: 'inter', 'Times New Roman', Times, serif;
+  font-weight: 400;
   font-size: 24px;
   color: #fff;
 }
@@ -11,6 +11,8 @@
 }
 .header__lang-link:hover {
   text-decoration: underline;
+  color: grey;
+  transition: .3s;
 }
 
 @media screen and (max-width: 540px) {

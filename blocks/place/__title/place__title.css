@@ -3,7 +3,8 @@
   max-width: 460px;
   margin: 0;
   padding: 0;
-  font-family: 'inter-900';
+  font-family: 'inter';
+  font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   color: #fff;

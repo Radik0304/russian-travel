@@ -2,7 +2,7 @@
   position: relative;
   text-decoration: none;
   color: #fff;
-  background-image: url(../__link/cover-trains.jpg);
+  background-image: url(../images/cover-trains.jpg);
   background-size: cover;
   min-height: 740px;
   display: flex;

@@ -1,11 +1,16 @@
 .place__paragraph {
   grid-area: place__paragraph;
-  font-family: 'inter-400', 'Times New Roman', Times, serif;
+  font-family: 'inter', 'Times New Roman', Times, serif;
+  font-weight: 400;
   font-size: 18px;
   color: #fff;
   line-height: 29px;
   margin-top: 0;
  max-width: 484px;
+}
+
+.place__paragraph :nth-child(1) {
+  margin-top:0;
 }
 
 @media screen and (max-width: 1120px) {

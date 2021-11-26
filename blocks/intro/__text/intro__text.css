@@ -1,5 +1,6 @@
 .intro__text {
-  font-family: 'inter-400';
+  font-family: 'inter', 'Times New Roman', Times, serif;
+  font-weight: 400;
   color: #fff;
   font-size: 16px;
   max-width: 690px;

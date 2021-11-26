@@ -1,5 +1,6 @@
 .place__url {
-  font-family: 'inter-400';
+  font-family: 'inter';
+  font-weight: 400;
   font-size: 12px;
   margin-bottom: 12px;
   color: #aaa;
