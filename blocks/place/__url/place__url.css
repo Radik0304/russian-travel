@@ -1,8 +1,10 @@
 .place__url {
-  font-family: 'inter';
+  font-family: 'inter', 'Times New Roman', Times, serif;
   font-weight: 400;
   font-size: 12px;
-  margin-bottom: 12px;
+  margin: 0 0 12px 0;
   color: #aaa;
   padding: 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }

@@ -1,5 +1,5 @@
-.page {
+.page-container {
   background-color: #2A2C2F;
   margin: auto;
-  max-width: 1148px;
+  min-width: 320px;
 }

@@ -6,12 +6,13 @@
   color: #fff;
 }
 
-.header__lang-link:last-child {
- margin-left: 8px;
+.header__lang-link:first-child {
+  margin-left: 18px;
 }
+
 .header__lang-link:hover {
   text-decoration: underline;
-  color: grey;
+  opacity: 0.8;
   transition: .3s;
 }
 

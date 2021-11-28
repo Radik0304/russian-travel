@@ -4,3 +4,9 @@
   margin-top: 64px;
 }
 
+@media screen and (max-width: 1120px) {
+  .lead__image {
+    margin-top: 56px;
+  }
+}
+
