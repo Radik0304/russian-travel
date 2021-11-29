@@ -15,13 +15,13 @@
 @media screen and (max-width: 960px) {
   .places {
     margin: 88px 24px 0 24px;
-    gap: 73px;
+    gap: 47px;
   }
 }
 
 @media screen and (max-width: 560px) {
   .places {
     margin: 64px 0 0;
-    gap: 50px;
+    gap: 24px;
   }
 }

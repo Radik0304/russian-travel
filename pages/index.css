@@ -1,12 +1,13 @@
 /*нормалайз*/
 @import url(../vendor/normalize.css);
 
-/*общие для страницы параметры*/
-@import url(../blocks/page-container/page-container.css);
-
 /*шрифты*/
 @import url(../fonts/fonts.css);
 
+
+/*общие для страницы параметры*/
+@import url(../blocks/page-container/page-container.css);
+@import url(../blocks/page/page.css);
 
 /*хедер*/
 @import url(../blocks/header/header.css);
